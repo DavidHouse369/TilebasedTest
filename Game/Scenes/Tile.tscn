@@ -1,0 +1,19 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scripts/Tile.gd" type="Script" id=1]
+
+
+[node name="Tile" type="Sprite"]
+
+script = ExtResource( 1 )
+_sections_unfolded = [ "Transform" ]
+tileScale = Vector3( 1, 0.75, 0.5 )
+tilePixelSize = 64
+tileColor = Color( 1, 1, 1, 1 )
+setUGColorAutomatically = true
+ugLeftColor = Color( 0.7, 0.7, 0.7, 1 )
+ugRightColor = Color( 0.4, 0.4, 0.4, 1 )
+useOutline = true
+outlineColor = Color( 0, 0, 0, 1 )
+
+

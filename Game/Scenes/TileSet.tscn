@@ -1,0 +1,38 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/Tiles/Tiles.png" type="Texture" id=1]
+
+
+[node name="TileSet" type="Node"]
+
+[node name="Concrete" type="Sprite" parent="." index="0"]
+
+position = Vector2( 40, 30 )
+texture = ExtResource( 1 )
+centered = false
+offset = Vector2( -32, -24 )
+region_enabled = true
+region_rect = Rect2( 0, 0, 64, 80 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+[node name="Sand" type="Sprite" parent="." index="1"]
+
+position = Vector2( 110, 30 )
+texture = ExtResource( 1 )
+centered = false
+offset = Vector2( -32, -24 )
+region_enabled = true
+region_rect = Rect2( 64, 0, 64, 80 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+[node name="Water" type="Sprite" parent="." index="2"]
+
+position = Vector2( 180, 30 )
+texture = ExtResource( 1 )
+centered = false
+offset = Vector2( -32, -24 )
+region_enabled = true
+region_rect = Rect2( 128, 0, 64, 80 )
+_sections_unfolded = [ "Offset", "Region" ]
+
+

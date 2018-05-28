@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Dead (4).png-e425bd3a2cbd0d7fffa8b1843ab5dc66.stex"
+
+[deps]
+
+source_file="res://Assets/Characters/ZombieFemale/Die/Dead (4).png"
+source_md5="79915c28f2d6499ed03679f4ab4b3a9d"
+
+dest_files=[ "res://.import/Dead (4).png-e425bd3a2cbd0d7fffa8b1843ab5dc66.stex" ]
+dest_md5="97a53f0f4da3ca90f0df87aa4e4058bc"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

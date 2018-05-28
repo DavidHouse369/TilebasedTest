@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Dead (4).png-4855c15843a20ab95234b7b134fe45f9.stex"
+
+[deps]
+
+source_file="res://Assets/Characters/Robot/Die/Dead (4).png"
+source_md5="38679369beabf9e81aecee84561d1933"
+
+dest_files=[ "res://.import/Dead (4).png-4855c15843a20ab95234b7b134fe45f9.stex" ]
+dest_md5="20c368d18e9a2e413d700daef0a392f1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Dead (4).png-943384072b3b6b358567e5ba4c91aa29.stex"
+
+[deps]
+
+source_file="res://Assets/Characters/ZombieMale/Die/Dead (4).png"
+source_md5="5bdc0bba506c4ef552a692bff89d1bd0"
+
+dest_files=[ "res://.import/Dead (4).png-943384072b3b6b358567e5ba4c91aa29.stex" ]
+dest_md5="303302c208b5dd1e7761d00ebf6ba57b"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

@@ -1,0 +1,32 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Idle (11).png-6776a69c274d3343bda3d4ed87d79005.stex"
+
+[deps]
+
+source_file="res://Assets/Characters/ZombieFemale/Idle/Idle (11).png"
+source_md5="98ab87803195d878864f7757920ca963"
+
+dest_files=[ "res://.import/Idle (11).png-6776a69c274d3343bda3d4ed87d79005.stex" ]
+dest_md5="89fb362a3f05f8c360ee83fe641a7cb1"
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=false
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
